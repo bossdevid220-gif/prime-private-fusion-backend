@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 3000;
 // Replace with your actual GitHub Pages / Vercel frontend URL
 const ALLOWED_ORIGINS = [
     'https://YOUR-USERNAME.github.io',        // ← GitHub Pages URL
-    'https://YOUR-PROJECT.vercel.app',         // ← Vercel URL
+    'https://prime-private-fusion.vercel.app',         // ← Vercel URL
     'http://localhost:5500',                   // local dev
     'http://127.0.0.1:5500'
 ];
